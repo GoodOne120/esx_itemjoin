@@ -12,6 +12,6 @@ Simple FiveM script that gives new players items when they join the server for t
 GoodOne#4446
 ```
 # Features And Bugs
-* Feel free to [request features](https://github.com/GoodOne120/gmod-maintenance/issues/new) and [report bugs](https://github.com/GoodOne120/gmod-maintenance/issues/new). I will implement features and fix bugs as fast as I can. :)
+* Feel free to [request features](https://github.com/GoodOne120/esx_itemjoin/issues/new) and [report bugs](https://github.com/GoodOne120/esx_itemjoin/issues/new). I will implement features and fix bugs as fast as I can. :)
 # License
-* Distributed under the MIT License. [Click here](https://github.com/GoodOne120/gmod-maintenance/blob/main/LICENSE) for more information.
+* Distributed under the MIT License. [Click here](https://github.com/GoodOne120/esx_itemjoin/blob/main/LICENSE) for more information.
